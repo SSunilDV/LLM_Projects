@@ -1,6 +1,8 @@
 
 # 🦙 LLaMA 3.2 Fine-Tuning for Conversational AI
 
+NOte : Please Download the Ipynb file if preview doesnt work in Github.
+
 This project demonstrates how to fine-tune Meta’s **LLaMA 3.2 (3B Instruct)** model using the **Unsloth** framework along with **LoRA (Low-Rank Adaptation)** for efficient, scalable training on conversational datasets.
 
 ---
